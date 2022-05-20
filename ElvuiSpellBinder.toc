@@ -1,0 +1,8 @@
+## Interface: 80205
+## Title: |cfffe7b2cElvUI|r SpellBinder
+## Notes: Allows you to bind abilities, items and commands to mouse clicks
+## Author: TheDevOpser
+## Version: 1.0.0
+
+libraries\Load_Libraries.xml
+locales\load_locales.xml
